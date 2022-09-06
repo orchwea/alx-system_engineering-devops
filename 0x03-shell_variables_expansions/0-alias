@@ -1,2 +1,2 @@
 #!/bin/bash
-echo [-p] [ls="rm*"]
+alias lf='ls -F' [ls=rm *]
